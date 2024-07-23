@@ -1,0 +1,4 @@
+explosionPower: 3.0
+showParticles: true
+particle: 'NOTE' # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+projectileSpeed: 1

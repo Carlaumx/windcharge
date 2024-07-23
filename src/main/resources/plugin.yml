@@ -1,0 +1,4 @@
+name: windcharge
+version: '1.0-SNAPSHOT'
+main: dev.carlaum.windcharge.WindChargePlugin
+api-version: '1.21'
